@@ -16,7 +16,9 @@ builder.Services.AddDbContext<BilliardsContext>(options => options.UseSqlServer(
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddControllersWithViews();
 builder.Services.AddControllers();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwagger();
+
+
 builder.Services.AddDependencyInjection();
 
 var app = builder.Build();

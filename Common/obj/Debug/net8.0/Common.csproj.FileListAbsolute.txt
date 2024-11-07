@@ -13,3 +13,4 @@ C:\Hoc\.Net\BilliardsProMax\Common\obj\Debug\net8.0\Common.dll
 C:\Hoc\.Net\BilliardsProMax\Common\obj\Debug\net8.0\refint\Common.dll
 C:\Hoc\.Net\BilliardsProMax\Common\obj\Debug\net8.0\Common.pdb
 C:\Hoc\.Net\BilliardsProMax\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Hoc\.Net\BilliardsProMax\Common\obj\Debug\net8.0\Common.sourcelink.json

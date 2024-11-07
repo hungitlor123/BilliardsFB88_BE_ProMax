@@ -1,4 +1,6 @@
 ﻿using Application.Services.Interfaces;
+using Domain.Models.Filters;
+using Domain.Models.Pagination;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Presentation.Controllers;
@@ -15,10 +17,9 @@ public class RoleController : Controller
     }
 
     [HttpGet]
-    public IActionResult GetRoles()
+    public IActionResult GetRoles([FromQuery] RoleFilterModel filter, [FromQuery] PaginationRequestModel pagination)
     {
-        var roles = _roleService.GetRoles();
-        return Ok(roles);
+        return _roleService.GetRoles(filter, pagination);
     }
     
 }
