@@ -12,3 +12,4 @@ C:\Hoc\.Net\BilliardsProMax\Domain\obj\Debug\net8.0\ref\Domain.dll
 C:\Hoc\.Net\BilliardsProMax\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
 C:\Hoc\.Net\BilliardsProMax\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
 C:\Hoc\.Net\BilliardsProMax\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Hoc\.Net\BilliardsProMax\Domain\obj\Debug\net8.0\Domain.sourcelink.json
