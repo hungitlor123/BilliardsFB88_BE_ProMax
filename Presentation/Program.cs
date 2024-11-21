@@ -1,3 +1,4 @@
+using Application.Mappings;
 using Application.Services.Implementations;
 using Application.Services.Interfaces;
 using Data.UnitOfWork.Implementations;
@@ -20,6 +21,7 @@ builder.Services.AddSwagger();
 
 
 builder.Services.AddDependencyInjection();
+builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 var app = builder.Build();
 
