@@ -117,3 +117,4 @@ C:\Hoc\.Net\BilliardsProMax\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore
 C:\Hoc\.Net\BilliardsProMax\Presentation\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Hoc\.Net\BilliardsProMax\Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 C:\Hoc\.Net\BilliardsProMax\Presentation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Hoc\.Net\BilliardsProMax\Presentation\bin\Debug\net8.0\AutoMapper.dll
